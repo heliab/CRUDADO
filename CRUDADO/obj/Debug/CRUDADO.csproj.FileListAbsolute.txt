@@ -1,0 +1,4 @@
+C:\Users\Haniel\documents\visual studio 2010\Projects\CRUDADO\CRUDADO\bin\CRUDADO.dll
+C:\Users\Haniel\documents\visual studio 2010\Projects\CRUDADO\CRUDADO\bin\CRUDADO.pdb
+C:\Users\Haniel\documents\visual studio 2010\Projects\CRUDADO\CRUDADO\obj\Debug\CRUDADO.dll
+C:\Users\Haniel\documents\visual studio 2010\Projects\CRUDADO\CRUDADO\obj\Debug\CRUDADO.pdb
